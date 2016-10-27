@@ -1,0 +1,1 @@
+java -Dhostname=192.168.199.1 -cp libs\OctaneSDKJava-1.24.1.0-jar-with-dependencies.jar;.\target\octane-logging-1.0.0-SNAPSHOT.jar -Dlog4j.configuration=file:log4j.properties com.example.sdksamples.MarginRead
